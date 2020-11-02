@@ -12,6 +12,7 @@ index = input_to_index(index)
 move(board, input)
 
 
+
 display_board(board)
 
 turn(board)
